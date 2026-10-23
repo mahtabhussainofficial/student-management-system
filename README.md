@@ -5,7 +5,7 @@
 
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.com/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/Data-JSON-F7DF1E?style=for-the-badge&logo=json&logoColor=black" alt="JSON" />
     <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License" />
     <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status" />
